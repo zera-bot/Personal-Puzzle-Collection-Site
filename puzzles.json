@@ -1,0 +1,972 @@
+[
+    {
+        "image": "img/placeholder.png",
+        "name": "",
+        "link": "",
+        "axisSystem": "",
+        "shape": "",
+        "solved": true,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/222.png",
+        "name": "2x2x2 (Meilong 2M)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=20",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 2
+    },
+    {
+        "image": "img/333.png",
+        "name": "3x3x3 (RS3M 2020)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=8378",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 3
+    },
+    {
+        "image": "img/444.png",
+        "name": "4x4x4 (MoYu AoSu Pink Version)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 4
+    },
+    {
+        "image": "img/555.png",
+        "name": "5x5x5 (Meilong 5M)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 4
+    },
+    {
+        "image": "img/666.png",
+        "name": "6x6x6 (MFJS Meilong)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 4
+    },
+    {
+        "image": "img/777.png",
+        "name": "7x7x7 (YJ YuFu V2 M)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 4
+    },
+    {
+        "image": "img/999.png",
+        "name": "9x9x9 (MFJS Meilong)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 4
+    },
+    {
+        "image": "img/11-11.png",
+        "name": "11x11x11 (MFJS Meilong)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6769",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 4
+    },
+    {
+        "image": "img/222-mirror.png",
+        "name": "2x2 Mirror Blocks (Shengshou)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9.5,
+        "difficulty": 2
+    },
+    {
+        "image": "img/333-mirror.png",
+        "name": "3x3 Mirror Blocks (QiYi Icy Amber)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 4
+    },
+    {
+        "image": "img/444-mirror.png",
+        "name": "4x4 Mirror Blocks (Shengshou)",
+        "link": "",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 5
+    },
+    {
+        "image": "img/kilominx.png",
+        "name": "Kilominx (MFJS Meilong)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1600",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 4
+    },
+    {
+        "image": "img/megaminx.png",
+        "name": "Megaminx (YJ YuHu V2 M)",
+        "link": "",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 5
+    },
+    {
+        "image": "img/master-kilominx.png",
+        "name": "Master Kilominx (YuXin 4x4 Megaminx)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=5650",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 5.5
+    },
+    {
+        "image": "img/gigaminx.png",
+        "name": "Gigaminx (YuXin)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1475",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 5
+    },
+    {
+        "image": "img/teraminx.png",
+        "name": "Teraminx (Shengshou)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1477",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 3,
+        "difficulty": 5.5
+    },
+    {
+        "image": "img/skewb.png",
+        "name": "Skewb (MoYu RS M)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=621",
+        "axisSystem": "Tetrahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 2
+    },
+    {
+        "image": "img/pyraminx.png",
+        "name": "Pyraminx (QiYi)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=11375",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 8.5,
+        "difficulty": 2.5
+    },
+    {
+        "image": "img/square1.png",
+        "name": "Square-1 (YuXin Little Magic)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=618",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 6.5
+    },
+    {
+        "image": "img/puppet1.png",
+        "name": "Puppet Cube (MFJS Meilong)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=8419",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 9
+    },
+    {
+        "image": "img/puppet2.png",
+        "name": "Puppet Cube V2 (MJFS Meilong)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=8420",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 8
+    },
+    {
+        "image": "img/mixup.png",
+        "name": "3x3 Mixup Cube (WitEden)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1507",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 4.5
+    },
+    {
+        "image": "img/tori.png",
+        "name": "Tori Cube (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7309",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 1.5
+    },
+    {
+        "image": "img/YJTY1.png",
+        "name": "YJ TianYuan Cube Version 1",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=10591",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 0.5
+    },
+    {
+        "image": "img/fusedCube.png",
+        "name": "Fused Cube",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=266",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 4
+    },
+    {
+        "image": "img/voidCube.png",
+        "name": "Void Cube (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1585",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/gearCubeJunior.png",
+        "name": "Gear Cube Junior",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=10602",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 1
+    },
+    {
+        "image": "img/gearCube.png",
+        "name": "Gear Cube (Lefun)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1501",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 3
+    },
+    {
+        "image": "img/gearCubeExtreme.png",
+        "name": "Gear Cube Extreme (Meffert's)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2010",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 8
+    },
+    {
+        "image": "img/gearedMixup.png",
+        "name": "Geared Mixup (Meffert's)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2506",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 8
+    },
+    {
+        "image": "img/malteseGear.png",
+        "name": "Maltese Gear Cube (Meffert's)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=3858",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 11
+    },
+    {
+        "image": "img/gearSkewb.png",
+        "name": "Gear Skewb (Calvin's Puzzle)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=3918",
+        "axisSystem": "Tetrahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/gearSkewbExtreme.png",
+        "name": "Geared Compy Cube (Calvin's Puzzle)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=5496",
+        "axisSystem": "Octahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 5
+    },
+    {
+        "image": "img/gearShift.png",
+        "name": "Gear Shift (HelloCube 2x2 Gear Cube)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2503",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 2
+    },
+    {
+        "image": "img/gearPyraminx.png",
+        "name": "Gear Pyraminx (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=3466",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 4.5,
+        "difficulty": 4
+    },
+    {
+        "image": "img/gear555.png",
+        "name": "Geared 5x5x5 (CubeTwist & Oskar)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2505",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 3,
+        "difficulty": 6
+    },
+    {
+        "image": "img/bramCubePlus.png",
+        "name": "Bram's Cube Plus (Calvin's Puzzle)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=440",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 5
+    },
+    {
+        "image": "img/pyraDuo.png",
+        "name": "Pyraminx Duo",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=4714",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 0.5
+    },
+    {
+        "image": "img/coinPyraminx.png",
+        "name": "Coin Pyraminx/Mercedes Pyraminx (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6748",
+        "axisSystem": "Octahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 1
+    },
+    {
+        "image": "img/jing.png",
+        "name": "Jing's Pyraminx (Shengshou)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1578",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 2
+    },
+    {
+        "image": "img/masterpyra.png",
+        "name": "Master Pyraminx (Shengshou)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1352",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 3
+    },
+    {
+        "image": "img/ivyMastermorphix.png",
+        "name": "Ivox/Ivy Mastermorphix (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6685",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 2
+    },
+    {
+        "image": "img/timemachine.png",
+        "name": "2x2 Time Machine (Lefun)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2354",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 2.5
+    },
+    {
+        "image": "img/223.png",
+        "name": "2x2x3 (QiYi)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=24",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 2
+    },
+    {
+        "image": "img/super133.png",
+        "name": "Super Floppy Cube (YJ)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1761",
+        "axisSystem": "Cube",
+        "shape": "Rectangular Prism",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 1
+    },
+    {
+        "image": "img/floppyGhostPentPrism.png",
+        "name": "Floppy Ghost Cube (YJ)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7306",
+        "axisSystem": "Pentagonal Prism",
+        "shape": "Rectangular Prism",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 2.5
+    },
+    {
+        "image": "img/moremadness.png",
+        "name": "More Madness (mf8)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2845",
+        "axisSystem": "Triangular Bipyramid",
+        "shape": "Triangular Bipyramid",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 10
+    },
+    {
+        "image": "img/337.png",
+        "name": "3x3x7 (C4U)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1733",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9.5,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/unicorn.png",
+        "name": "Unicorn Cube",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6763",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 4
+    },
+    {
+        "image": "img/helicopter.png",
+        "name": "Helicopter Cube (LanLan)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2300",
+        "axisSystem": "Rhombic Dodecahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 3
+    },
+    {
+        "image": "img/cloverCube1.png",
+        "name": "Clover Cube (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6490",
+        "axisSystem": "Rhombic Dodecahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/cloverCube222.png",
+        "name": "Clover Cube + 2x2x2 (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=5804",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 4
+    },
+    {
+        "image": "img/shell.png",
+        "name": "Shell Cube/Butterflower Cube (LanLan)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7269",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 7
+    },
+    {
+        "image": "img/ivy.png",
+        "name": "Ivy Cube (QiYi Jelly)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1855",
+        "axisSystem": "Tetrahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 1
+    },
+    {
+        "image": "img/dino.png",
+        "name": "Dino Cube (QiYi Jelly)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=5020",
+        "axisSystem": "Octahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 2
+    },
+    {
+        "image": "img/mixupSkewbI.png",
+        "name": "Skewb Mixup I (MoYu Meilong)",
+        "link": "",
+        "axisSystem": "Tetrahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 3
+    },
+    {
+        "image": "img/rex.png",
+        "name": "Rex Cube (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1662",
+        "axisSystem": "Octahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/polaris.png",
+        "name": "Polaris Cube (MFJS Meilong)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7803",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8.5,
+        "difficulty": 3
+    },
+    {
+        "image": "img/mapleSkewb.png",
+        "name": "Maple Leaves Skewb (MFJS Meilong)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7818",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 5
+    },
+    {
+        "image": "img/redi.png",
+        "name": "Redi Cube (MoYu)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1520",
+        "axisSystem": "Octahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 2
+    },
+    {
+        "image": "img/fto.png",
+        "name": "Face-Turning Octahedron (DianSheng M)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1663",
+        "axisSystem": "Octahedron",
+        "shape": "Octahedron",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 4.5
+    },
+    {
+        "image": "img/pyraminxDiamond.png",
+        "name": "Pyraminx Diamond (Meffert's)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=4802",
+        "axisSystem": "Cube",
+        "shape": "Octahedron",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 2
+    },
+    {
+        "image": "img/skewbDiamond.png",
+        "name": "Skewb Diamond",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=393",
+        "axisSystem": "Octahedron",
+        "shape": "Octahedron",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 2
+    },
+    {
+        "image": "img/octaDino.png",
+        "name": "Octahedral Dino Cube",
+        "link": "",
+        "axisSystem": "Octahedron",
+        "shape": "Octahedron",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 2
+    },
+    {
+        "image": "img/ajClover.png",
+        "name": "Clover Icosahedron (AJ)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=10158",
+        "axisSystem": "Icosahedron",
+        "shape": "Icosahedron",
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 6
+    },
+    {
+        "image": "img/placeholder.png",
+        "name": "Radiolarian 2",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1746",
+        "axisSystem": "Icosahedron",
+        "shape": "Icosahedron",
+        "solved": false,
+        "enjoyment": 4,
+        "difficulty": 8.5
+    },
+    {
+        "image": "img/radio3.png",
+        "name": "Radiolarian 3",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1747",
+        "axisSystem": "Icosahedron",
+        "shape": "Icosahedron",
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 9
+    },
+    {
+        "image": "img/FTDinoIcosa.png",
+        "name": "Face turning Dino Icosahedron",
+        "link": "",
+        "axisSystem": "Icosahedron",
+        "shape": "Icosahedron",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 4.5
+    },
+    {
+        "image": "img/radioPenguin.png",
+        "name": "Radio Penguin",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12782",
+        "axisSystem": "Icosahedron",
+        "shape": "Icosahedron",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/radio9.png",
+        "name": "Radiolarian 9",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=3732",
+        "axisSystem": "Icosahedron",
+        "shape": "Icosahedron",
+        "solved": true,
+        "enjoyment": 8.5,
+        "difficulty": 6.5
+    },
+    {
+        "image": "img/flowerDodec.png",
+        "name": "Flower Dodecahedron (Sengso Blossoms Megaminx)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7126",
+        "axisSystem": "Rhombic Triacontahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/flowerDodecacopter.png",
+        "name": "Flower Dodecacopter",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=13602",
+        "axisSystem": "Rhombic Triacontahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 8.5,
+        "difficulty": 6
+    },
+    {
+        "image": "img/starminx2.png",
+        "name": "Starminx II",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2007",
+        "axisSystem": "Rhombic Triacontahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 5
+    },
+    {
+        "image": "img/3LPentahedron.png",
+        "name": "Triangular Prism (ShengShou 3-Layer Pentahedron)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=10916",
+        "axisSystem": "Triangular Prism",
+        "shape": "Triangular Prism",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 2.5
+    },
+    {
+        "image": "img/starBarrel.png",
+        "name": "Star Barrel (YJ)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=8051",
+        "axisSystem": "Pentagonal Prism",
+        "shape": "Cylinder",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 6
+    },
+    {
+        "image": "img/4corners.png",
+        "name": "4 Corners Cube (LanLan)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=5793",
+        "axisSystem": "Triakis Tetrahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 3,
+        "difficulty": 8
+    },
+    {
+        "image": "img/jumblePrism.png",
+        "name": "Jumble Prism (mf8 + Oskar)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2973",
+        "axisSystem": "Triangular Bipyramid",
+        "shape": "Triangular Prism",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 6.5
+    },
+    {
+        "image": "img/sunCube.png",
+        "name": "Sun Cube",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=4531",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 6.5
+    },
+    {
+        "image": "img/cloverPyra.png",
+        "name": "Clover Pyraminx (QiYi MoFangGe - not in collection)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=7135",
+        "axisSystem": "Cube",
+        "shape": "Tetrahedron",
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 3
+    },
+    {
+        "image": "img/cc3.png",
+        "name": "Curvy Copter III (mf8 - not in collection)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=4808",
+        "axisSystem": "Rhombic Dodecahedron",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 4.5
+    },
+    {
+        "image": "img/sunPyra.png",
+        "name": "Sun Pyraminx",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12015",
+        "axisSystem": "Tetrahedron",
+        "shape": "Tetrahedron",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/slimPyra.png",
+        "name": "Slim Pyraminx",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=3424",
+        "axisSystem": "Triangular Prism",
+        "shape": "Triangular Prism",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 1.5
+    },
+    {
+        "image": "img/sunflowerCube.png",
+        "name": "Sunflower Cube (LanLan)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=8229",
+        "axisSystem": "Triakis Octahedron",
+        "shape": "Cube",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/pentagram.png",
+        "name": "Pentagram (mf8)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1982",
+        "axisSystem": "Icosahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 6.5
+    },
+    {
+        "image": "img/pentultimate.png",
+        "name": "Pentultimate",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1741",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/233.png",
+        "name": "2x3x3 (QiYi MoFangGe)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=21",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/astroid.png",
+        "name": "Astroid Attack",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1496",
+        "axisSystem": "Tetragonal Trapezohedron",
+        "shape": "Tetragonal Trapezohedron",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 4
+    },
+    {
+        "image": "img/meteor.png",
+        "name": "Meteor Madness",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1506",
+        "axisSystem": "Triangular Bipyramid",
+        "shape": "Triangular Bipyramid",
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 5.5
+    },
+    {
+        "image": "img/haywireHeptahouse.png",
+        "name": "Haywire Heptahouse",
+        "link": "",
+        "axisSystem": "Heptahedron A",
+        "shape": "Heptahedron A",
+        "solved": true,
+        "enjoyment": 8.5,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/deepJumblePrism.png",
+        "name": "Deep Jumble Prism",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12801",
+        "axisSystem": "Triangular Bipyramid",
+        "shape": "Triangular Prism",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/dinoDodec.png",
+        "name": "Dino Dodecahedron",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1760",
+        "axisSystem": "Icosahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 8.5,
+        "difficulty": 3.5
+    },
+    {
+        "image": "img/voidMega.png",
+        "name": "Void Megaminx",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1776",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 5
+    },
+    {
+        "image": "img/phantom.png",
+        "name": "Rubik's Phantom",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=10628",
+        "axisSystem": "Cube",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 3
+    },
+    {
+        "image": "img/sunminx.png",
+        "name": "Sunminx",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6869",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
+    },
+    {
+        "image": "img/pyraminxCrystal.png",
+        "name": "Pyraminx Crystal",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=652",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 9,
+        "difficulty": 5.5
+    },
+    {
+        "image": "img/circleUnicorn.png",
+        "name": "Circle Unicorn Cube (ZePuzzles)",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12430",
+        "axisSystem": "Other",
+        "shape": "Cube",
+        "solved": true,
+        "enjoyment": 7.5,
+        "difficulty": 1
+    }
+]

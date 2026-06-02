@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <h1>Puzzle Collection</h1>
+    <div class="stats">
+        <div class="card">
+            <h2>Unique Puzzles</h2>
+            <p id="uniquePuzzles">0</p>
+        </div>
+
+        <div class="card">
+            <h2>Unsolved</h2>
+            <p id="unsolvedPuzzles">0</p>
+        </div>
+    </div>
+
+    <div class="controls">
+        <input type="text" id="searchBar" placeholder="Search..."/>
+
+        <select id="axisFilter">
+            <option value="all">All Axis Systems</option>
+        </select>
+
+        <select id="shapeFilter">
+            <option value="all">All Shapes</option>
+        </select>
+    </div>
+
+    <div class="tableContainer">
+        <table>
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Axis System</th>
+                    <th>Shape</th>
+                    <th>Solved</th>
+                    <th>Enjoyment</th>
+                    <th>Difficulty</th>
+                </tr>
+            </thead>
+
+            <tbody id="puzzleTableBody"></tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
