@@ -835,9 +835,9 @@
         "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=8229",
         "axisSystem": "Triakis Octahedron",
         "shape": "Cube",
-        "solved": false,
-        "enjoyment": 0,
-        "difficulty": 0
+        "solved": true,
+        "enjoyment": 5,
+        "difficulty": 7
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/pentagram.png",
@@ -865,9 +865,9 @@
         "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=21",
         "axisSystem": "Cube",
         "shape": "Cube",
-        "solved": false,
-        "enjoyment": 0,
-        "difficulty": 0
+        "solved": true,
+        "enjoyment": 7,
+        "difficulty": 3
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/astroid.png",
@@ -972,7 +972,7 @@
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/radiominx.png",
         "name": "Radiominx (Starminx IV)",
-        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12430",
+        "link": "",
         "axisSystem": "Icosahedron",
         "shape": "Dodecahedron",
         "solved": false,
