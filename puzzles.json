@@ -660,14 +660,14 @@
         "difficulty": 6
     },
     {
-        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/placeholder.png",
+        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/radio2.png",
         "name": "Radiolarian 2",
         "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1746",
         "axisSystem": "Icosahedron",
         "shape": "Icosahedron",
-        "solved": false,
+        "solved": true,
         "enjoyment": 4,
-        "difficulty": 8.5
+        "difficulty": 9
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/radio3.png",
@@ -707,7 +707,7 @@
         "shape": "Icosahedron",
         "solved": true,
         "enjoyment": 8.5,
-        "difficulty": 6.5
+        "difficulty": 8.5
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/flowerDodec.png",
@@ -847,7 +847,7 @@
         "shape": "Dodecahedron",
         "solved": true,
         "enjoyment": 7,
-        "difficulty": 6.5
+        "difficulty": 8
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/pentultimate.png",
