@@ -695,9 +695,9 @@
         "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12782",
         "axisSystem": "Icosahedron",
         "shape": "Icosahedron",
-        "solved": false,
-        "enjoyment": 0,
-        "difficulty": 0
+        "solved": true,
+        "enjoyment": 10,
+        "difficulty": 7.5
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/radio9.png",
