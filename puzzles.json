@@ -978,5 +978,15 @@
         "solved": true,
         "enjoyment": 10,
         "difficulty": 7
+    },
+    {
+        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/heptagem.png",
+        "name": "Haywire Heptagem",
+        "link": "",
+        "axisSystem": "Heptahedron B",
+        "shape": "Heptahedron B",
+        "solved": false,
+        "enjoyment": 0,
+        "difficulty": 0
     }
 ]
