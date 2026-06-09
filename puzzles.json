@@ -945,9 +945,9 @@
         "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=6869",
         "axisSystem": "Dodecahedron",
         "shape": "Dodecahedron",
-        "solved": false,
-        "enjoyment": 0,
-        "difficulty": 0
+        "solved": true,
+        "enjoyment": 4,
+        "difficulty": 10
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/pyraminxCrystal.png",
