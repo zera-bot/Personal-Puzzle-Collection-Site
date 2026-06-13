@@ -980,11 +980,21 @@
         "difficulty": 7
     },
     {
-        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/heptagem.png",
+        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/haywireHeptagem.png",
         "name": "Haywire Heptagem",
         "link": "",
         "axisSystem": "Heptahedron B",
         "shape": "Heptahedron B",
+        "solved": true,
+        "enjoyment": 6,
+        "difficulty": 7.5
+    },
+    {
+        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/starminx3.png",
+        "name": "Starminx III",
+        "link": "",
+        "axisSystem": "Icosahedron",
+        "shape": "Dodecahedron",
         "solved": false,
         "enjoyment": 0,
         "difficulty": 0
