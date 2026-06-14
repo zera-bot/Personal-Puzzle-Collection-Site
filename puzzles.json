@@ -706,8 +706,8 @@
         "axisSystem": "Icosahedron",
         "shape": "Icosahedron",
         "solved": true,
-        "enjoyment": 8.5,
-        "difficulty": 8.5
+        "enjoyment": 7.5,
+        "difficulty": 9
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/flowerDodec.png",
@@ -996,7 +996,7 @@
         "axisSystem": "Icosahedron",
         "shape": "Dodecahedron",
         "solved": false,
-        "enjoyment": 0,
-        "difficulty": 0
+        "enjoyment": 8,
+        "difficulty": 9
     }
 ]
