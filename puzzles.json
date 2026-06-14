@@ -995,7 +995,7 @@
         "link": "",
         "axisSystem": "Icosahedron",
         "shape": "Dodecahedron",
-        "solved": false,
+        "solved": true,
         "enjoyment": 8,
         "difficulty": 9
     }
