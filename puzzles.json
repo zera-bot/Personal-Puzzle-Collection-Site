@@ -992,11 +992,21 @@
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/starminx3.png",
         "name": "Starminx III",
-        "link": "",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=2008",
         "axisSystem": "Icosahedron",
         "shape": "Dodecahedron",
         "solved": true,
         "enjoyment": 8,
         "difficulty": 9
+    },
+    {
+        "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/starminx1.png",
+        "name": "Starminx I",
+        "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=1759",
+        "axisSystem": "Dodecahedron",
+        "shape": "Dodecahedron",
+        "solved": true,
+        "enjoyment": 8,
+        "difficulty": 6
     }
 ]
