@@ -815,9 +815,9 @@
         "link": "https://twistypuzzles.com/app/museum/museum_showitem.php?pkey=12015",
         "axisSystem": "Tetrahedron",
         "shape": "Tetrahedron",
-        "solved": false,
-        "enjoyment": 0,
-        "difficulty": 0
+        "solved": true,
+        "enjoyment": 5.5,
+        "difficulty": 11.5
     },
     {
         "image": "https://raw.githubusercontent.com/zera-bot/Personal-Puzzle-Collection-Site/refs/heads/main/img/slimPyra.png",
