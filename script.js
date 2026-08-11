@@ -31,14 +31,17 @@ function populateAxisFilter(){
 
     const uniqueAxes = [];
     for (const puzzle of puzzles){
-        if (!uniqueAxes.includes(puzzle.axisSystem)){
-            const option = document.createElement("option");
-            option.value = puzzle.axisSystem;
-            option.textContent = puzzle.axisSystem;
-            filter.appendChild(option);
+        for (const axisSystemId of puzzle.axisSystem){
+            if (!uniqueAxes.includes(axisSystemId)){
+                const option = document.createElement("option");
+                option.value = axisSystemId;
+                option.textContent = axisSystemId;
+                filter.appendChild(option);
 
-            uniqueAxes.push(puzzle.axisSystem);
+                uniqueAxes.push(axisSystemId);
+            }
         }
+
     }
 }
 
@@ -66,8 +69,9 @@ function applyFilters(){
 
     let filtered = [];
     for (const puzzle of puzzles){
+        console.log(puzzle);
         const matchesSearch = puzzle.name.toLowerCase().includes(search);
-        const matchesAxis = axis == "all" || puzzle.axisSystem == axis;
+        const matchesAxis = axis == "all" || puzzle.axisSystem.includes(axis);
         const matchesShape = shape == "all" || puzzle.shape == shape;
 
         if (matchesSearch && matchesAxis && matchesShape){
@@ -98,9 +102,14 @@ function renderTable(data){
             row.innerHTML += `<td class="nameComponent"><a href="${puzzle.link}">${puzzle.name}</a></td>`
         }
 
+        let axisSystemClassHTML = ""
+        for (const axisSystemId of puzzle.axisSystem){
+            axisSystemClassHTML += `axisSystemComponent ${axisSystemId} `
+        }
+
         row.innerHTML += `
             
-            <td class="axisSystemComponent ${puzzle.axisSystem}">${puzzle.axisSystem}</td>
+            <td class="${axisSystemClassHTML}">${puzzle.axisSystem.join(", ")}</td>
             <td class="shapeComponent ${puzzle.shape}">${puzzle.shape}</td>
             <td class="solvedComponent ${puzzle.solved ? "solved" : "unsolved"}">
                 ${puzzle.solved ? "✓" : "✗"}
